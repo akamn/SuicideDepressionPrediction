@@ -4,6 +4,6 @@ Python 3.12.2
 
 install requirements.txt pip install -r requirements.txt
 
-Download Models From Bellow Drive Link 
+Download Models From Bellow Drive Link https://drive.google.com/drive/folders/1nGbf9lPvLMqzZdxM5Ox5_T9bTD3MOeOX?usp=sharing
 
 Check Screenshot for project directory. After download this folder extrall all in root folder.
